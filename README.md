@@ -6,13 +6,6 @@ MedConstBench measures how a deployment-time *ethical constitution* (an ethics g
 as a system prompt) changes the behavior of large language models on medical-ethics questions,
 scored along **Beauchamp's four principles** (autonomy, non-maleficence, beneficence, justice).
 
-Two ideas distinguish it:
-
-1. **Constitution as a controlled variable** — the question is held fixed and the constitution is
-   varied, so any change in the score is attributable to the constitution.
-2. **Multi-model mutual evaluation** — each answer is scored by the *other* models on a 12-item
-   rubric and aggregated, rather than by a single LLM judge.
-
 ## Layout
 
 ```
