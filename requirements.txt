@@ -1,0 +1,4 @@
+# Pipeline dependencies.
+# Install vllm/torch to match your cluster's CUDA version (see README).
+numpy          # aggregation
+vllm           # inference / mutual evaluation (GPU)

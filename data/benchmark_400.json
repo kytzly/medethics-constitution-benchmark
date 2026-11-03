@@ -1,0 +1,4243 @@
+[
+  {
+    "id": "disc-891",
+    "question": "What are the ethical considerations in choosing a model for the doctor-patient relationship in treatment decision-making?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2529",
+    "question": "What ethical considerations should healthcare students take into account when interacting with patients on social media?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4356",
+    "question": "Why is it important to disclose potential intellectual property rights (IPRs) to donors of biomaterials in biobanks?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2071",
+    "question": "What ethical considerations should be taken into account when deciding whether to obtain predictive risk information for dementia, particularly in relation to family responsibilities?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-5115",
+    "question": "In the context of organ donation, what ethical considerations define it as an imperfect duty, and how does this affect the donor's decision-making process?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1846",
+    "question": "What are the limitations of a principled approach to autonomy in the doctor-patient relationship, and how can autonomy be better understood?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1954",
+    "question": "What ethical considerations should be taken into account when conducting Clinical Ethics Consultations (CECs) in neurology?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-5216",
+    "question": "What are the ethical considerations for allowing patients to opt-out of receiving certain genetic test results?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4691",
+    "question": "What are the ethical advantages of dynamic consent over conventional consent methods in digital health ecosystems?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1994",
+    "question": "What considerations should be taken into account when assessing patient autonomy in legal cases involving informed consent and negligence?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-81",
+    "question": "What role can genetic counselors play in ensuring the ethical use of genetic data?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3712",
+    "question": "What considerations should physicians take into account when deciding whether to disclose information about expanded access to investigational treatments to patients?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1141",
+    "question": "What are the ethical implications of transitioning to smartphone apps for remote monitoring of medical devices?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-182",
+    "question": "What ethical considerations should be taken into account when interpreting personal genomic testing (PGT) results to ensure consumer autonomy?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1659",
+    "question": "What ethical considerations should be taken into account when implementing advance treatment directives and shared care plans in healthcare, particularly regarding patient autonomy and the refusal of potentially lifesaving treatments?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2966",
+    "question": "How should healthcare providers recognize and support the affective and embodied dimensions of a patient's autonomy in clinical decision-making?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-90",
+    "question": "Why are communication problems in medical settings often directed to ethics committees rather than social workers?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-492",
+    "question": "What ethical considerations should be taken into account when obtaining consent for a child's medical treatment in a Middle Eastern context?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4534",
+    "question": "What educational strategies can be implemented to enhance women's autonomy in childbirth decisions, and what role do healthcare professionals play in this process?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-822",
+    "question": "What considerations should healthcare professionals take into account when determining which ethical guidance to follow in clinical practice?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2969",
+    "question": "What are the ethical considerations in supporting mandated choice over presumed consent in organ donation?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3368",
+    "question": "How should advance directives be treated if they have not been reviewed for a long period?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3813",
+    "question": "What role do cognitive biases play in the decision-making process of conscientious objection in healthcare?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-259",
+    "question": "What are the challenges in ensuring patients understand the implications of incidental findings (IFs) in genetic testing?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1154",
+    "question": "What ethical considerations should be taken into account when deciding between BRCA1/2 testing and multiple gene panel testing?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4676",
+    "question": "What ethical considerations should be taken into account when implementing tracking devices in healthcare during a pandemic?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-79",
+    "question": "What are the ethical challenges associated with expanded carrier screening?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1664",
+    "question": "What are the benefits of conducting Surgical Care Planning (SCP) meetings in terms of informed consent and patient decision-making?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-616",
+    "question": "How does the type of advice (autonomy vs. paternalism) affect patients' confidence and comfort in medical decision-making?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4692",
+    "question": "How can dynamic consent mechanisms ensure the preservation of individual autonomy in the sharing of personal health data?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1151",
+    "question": "What are the ethical implications of autonomy in cascade screening for genetic testing?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1326",
+    "question": "How should physicians balance the need to respect patient autonomy with the potential discomfort of communicating a poor prognosis, and what role do gender differences play in this balance?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4436",
+    "question": "How can the use of AI in healthcare impact patient autonomy, and what considerations should be taken to protect it?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3586",
+    "question": "What role does accurate information play in ethical decision-making for patients with disorders of consciousness?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1746",
+    "question": "What ethical considerations should be taken into account when implementing a COVID-19 vaccination program, especially regarding individual autonomy?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2663",
+    "question": "What ethical considerations should dental students take into account when using social media in their professional practice?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2076",
+    "question": "What ethical considerations should be taken into account during the clinical ethics consultation process to ensure transparency and prevent misunderstandings?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-5222",
+    "question": "How do power dynamics and the nurse-patient relationship affect patient autonomy in clinical decision-making?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3294",
+    "question": "What considerations should be taken into account when obtaining consent for research involving minors?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1693",
+    "question": "What ethical considerations should anesthesiologists take into account when managing surgical patients with DNR orders?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1785",
+    "question": "What steps can be taken to improve the engagement of healthcare providers with ethics consultation services?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4572",
+    "question": "What are the ethical considerations regarding informed consent and patient privacy in the use of personal health information within the metaverse?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-111",
+    "question": "How does the use of eHealth technologies impact trust and confidentiality in the patient-physician relationship?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-181",
+    "question": "What ethical considerations should be taken into account regarding consumer autonomy in personal genomic testing?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-931",
+    "question": "How should trust be managed in the patient-doctor relationship to ensure effective shared decision-making?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4892",
+    "question": "What role should physicians play in decision-making when AI is used in medical practice?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1586",
+    "question": "How can advanced care planning help align medical treatment with patient preferences during a pandemic?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4761",
+    "question": "How should adolescents be informed about their rights to make autonomous medical decisions?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2631",
+    "question": "How should age be considered in medical decision-making, particularly in surgical settings?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1940",
+    "question": "What considerations should clinicians take into account when scrutinizing surrogate decisions in medical ethics?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1271",
+    "question": "What are the ethical considerations in granting temporary immunity to healthcare professionals from clinical negligence claims during emergencies like COVID-19?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1335",
+    "question": "What ethical considerations should be taken into account when expanding home dialysis training during the COVID-19 pandemic?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1355",
+    "question": "What ethical considerations should dentists take into account when deciding whether to postpone non-urgent dental procedures during a pandemic?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4116",
+    "question": "How does an authoritarian leadership style affect the ethical climate in high-pressure medical environments?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1347",
+    "question": "What ethical considerations should be taken into account when implementing public health interventions for asymptomatic Covid-19 cases?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4312",
+    "question": "What ethical considerations should be taken into account when expediting the approval and distribution of medical products during public health emergencies?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3949",
+    "question": "What ethical considerations should be taken into account regarding the irreversibility of regenerative valve implants and spinal cord implants, especially when complications arise?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1715",
+    "question": "What considerations should be taken into account to ensure providers of alternative neurotherapies are competent to deliver these therapies safely and effectively?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3867",
+    "question": "What factors can hinder healthcare professionals from voicing ethical concerns, and what are the potential consequences of not addressing these issues?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2204",
+    "question": "What considerations should be taken into account to ensure nonmaleficence in the design and implementation of AI systems in healthcare?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4202",
+    "question": "What considerations should medical trainees take into account when deciding to resist social harm and injustice in clinical settings?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-431",
+    "question": "How might the use of gene therapy as a preventive measure against chemical weapons affect the risk to individual soldiers versus overall military efficacy?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4139",
+    "question": "What role should the Medical Council play in promoting rational drug prescription among doctors, considering their autonomy and influence in the healthcare system?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-5229",
+    "question": "What considerations should Data Access Committees (DACs) take into account to prevent potential harms when sharing anonymized data?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1523",
+    "question": "What are the ethical considerations for regulating the use of psychostimulants for neuroenhancement in children and adolescents?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4507",
+    "question": "What are the ethical implications of allowing non-psychiatrists to practice cosmetic psychiatry, and how might this affect the role of psychiatrists?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-121",
+    "question": "What considerations should health services take into account when reviewing AI models for clinical use?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1679",
+    "question": "Why is credentialing considered important for the development of bioethics in Saudi Arabia?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-538",
+    "question": "What considerations should be taken into account when implementing a mandatory ethics consultation policy in a medical institution?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4835",
+    "question": "How should medical schools encourage students to report mistreatment while ensuring their confidentiality and anonymity?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1354",
+    "question": "What measures should dental professionals take to prevent the spread of COVID-19 while adhering to ethical guidelines?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1080",
+    "question": "What are the ethical concerns associated with the use of mRNA and DNA-based vaccines in humans?",
+    "subset": "discourse",
+    "four_pillars": [
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1930",
+    "question": "What ethical considerations should be taken into account when conducting MRI research in remote, resource-limited settings?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1397",
+    "question": "What considerations should be taken into account when evaluating the performance of IRBs in the context of data-only research?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-433",
+    "question": "What ethical considerations should be taken into account when evaluating the influence of funding sources on the publication and continuation of clinical studies?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-5000",
+    "question": "What responsibilities do institutional leaders have in maintaining research integrity, and how should they respond to failures in oversight?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4607",
+    "question": "How can Research Ethics Committees (RECs) address the challenges related to inconsistent ethics training requirements and effectiveness evaluation?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2463",
+    "question": "Why is it important to report financial conflicts of interest in medical research, and what steps have been taken to ensure transparency?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3538",
+    "question": "What are the potential conflicts of interest that can arise when physicians recommend patient participation in research studies?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1082",
+    "question": "What ethical considerations should clinical librarians take into account to enhance their role in healthcare settings?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-5243",
+    "question": "What are the ethical considerations when assessing the quality of study protocols in medical research?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4730",
+    "question": "How can the appreciation of humanization issues be enhanced among younger nurses?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4970",
+    "question": "How should authorship order be determined in a medical research paper, and what ethical considerations are involved?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2921",
+    "question": "What considerations should IRBs take into account when deciding to engage outside experts for ethics review?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4391",
+    "question": "How should guideline development organizations address conflicts of interest and funding transparency in their processes?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3080",
+    "question": "How can research ethics committees improve their preparedness for expedited review of protocols during emergencies?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-382",
+    "question": "What ethical responsibilities do physicians have in preparing for and responding to disaster situations, such as terroristic events?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4660",
+    "question": "How should medical education programs incorporate active learning methods to ethically foster curiosity and motivation among students?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-5296",
+    "question": "How should research ethics boards address the risks imposed on non-participant bystanders in research studies?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-786",
+    "question": "What ethical considerations should gynecologic oncologists take into account when determining the inclusion of patients with gynecologic malignancies in COVID-19 research?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3869",
+    "question": "What considerations should be taken into account when designing programs to improve nurses' ethical decision-making?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2816",
+    "question": "What considerations should be taken into account to manage conflicts of interest (COI) in healthcare policy formulation and implementation?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1233",
+    "question": "What are the ethical considerations in managing and sharing health data and biospecimens for research purposes?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2984",
+    "question": "What ethical considerations should be taken into account when using Discrete Choice Experiments (DCEs) in research involving vulnerable populations?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2381",
+    "question": "How can medical education be adapted to better prepare students for ethical challenges in their future professional roles?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4547",
+    "question": "What responsibilities do medical journals have in ensuring ethical compliance in the publication of medical research?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2993",
+    "question": "What are the ethical justifications for using randomised controlled trials (RCTs) in medical research, and what challenges do they face with new therapeutic modalities?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2581",
+    "question": "What ethical considerations should researchers take into account to ensure diverse and representative sampling in studies on childbirth experiences?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3576",
+    "question": "What ethical considerations should be taken into account when deciding whether to initiate dialysis treatment for infants with kidney failure?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3507",
+    "question": "What steps should be taken to establish effective oversight of research integrity and misconduct practices in medical research?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4254",
+    "question": "What considerations should be taken into account when developing regulations for human embryonic-like structures (hELS) research?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-245",
+    "question": "What are the ethical considerations for implementing a single IRB approach in multisite studies?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1583",
+    "question": "What ethical considerations should be taken into account when conducting research with forcibly displaced populations?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4763",
+    "question": "What are the ethical issues surrounding payments for minors participating in clinical research?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-848",
+    "question": "What considerations should be taken into account when integrating neuroethics into the field of neuroscience?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2461",
+    "question": "What considerations should be taken into account when excluding trials with financial conflicts of interest in meta-analyses?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3703",
+    "question": "What challenges do IRBs face in reviewing diverse research studies, and how can these challenges be addressed?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1841",
+    "question": "What is the role of ex-ante ethical evaluation in research studies, and how does it contribute to participant protection?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1098",
+    "question": "What ethical considerations should be taken into account when distinguishing between resilience and enhancement in medical practices?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-335",
+    "question": "How should researchers address the potential influence of social desirability bias when assessing moral courage in physicians-in-training?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1555",
+    "question": "What considerations should be taken into account when a healthcare professional's personal beliefs conflict with their professional obligations?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3874",
+    "question": "What considerations should nurse educators and policymakers take into account when developing training programs for ethical decision-making in nursing?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3979",
+    "question": "What ethical considerations should researchers take into account when designing a study that involves analyzing citations of systematic reviews of ethical literature (SREL)?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3543",
+    "question": "What ethical considerations should be taken into account to address moral distress among healthcare students during a pandemic?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2717",
+    "question": "What are the limitations of generalizing findings from studies on conflict of interest disclosures in high-impact medical journals to the broader community of medical researchers?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2593",
+    "question": "What considerations should an IRB take into account when deciding to consult with outside experts to ensure the protection of research participants?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4000",
+    "question": "How should researchers handle the identification and categorization of conflicts of interest in systematic reviews?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3122",
+    "question": "What considerations should be taken into account when balancing trust in researchers with the need for oversight in research protocols?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2236",
+    "question": "What are the ethical considerations in transforming aborted fetal material from waste to a resource for medical research?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-322",
+    "question": "What ethical responsibilities should data scientists consider when designing programs and platforms for data reuse in medical research?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3115",
+    "question": "What considerations should IRBs and IACUCs take into account when evaluating the scientific value of research studies?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2623",
+    "question": "What ethical considerations should be taken into account when managing the well-being of healthcare professionals, particularly in relation to somatization, exhaustion, and work alienation?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3904",
+    "question": "What ethical considerations should be taken into account when evaluating the impact of privatisation on equity in Canadian healthcare?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4315",
+    "question": "What are the ethical implications of using internet-based methods to disclose information about confirmed cases during a pandemic?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2674",
+    "question": "How can healthcare systems ensure equitable resource allocation during a crisis to avoid exacerbating existing health and social inequities?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2980",
+    "question": "What considerations should be taken into account to address systemic racism in HIV care for AABL-PLWH?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4461",
+    "question": "How should healthcare systems balance cost-effectiveness and equity when prioritizing treatments for patients with varying severity of conditions?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-108",
+    "question": "What role do public views play in shaping health policy for treatment withdrawal decisions in a publicly-funded healthcare system?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1121",
+    "question": "What role does the principle of justice play in the distribution of healthcare resources, and how should physicians address inequalities in healthcare?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2827",
+    "question": "What are the ethical implications of prioritizing younger patients for treatment during a pandemic, and how do social determinants of health affect this prioritization?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1645",
+    "question": "What considerations should the WHO take into account when addressing health inequities to ensure a more ethical approach?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-610",
+    "question": "What role should physicians play in promoting access to health care for all individuals, regardless of economic means?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3748",
+    "question": "What considerations should be taken into account when programming AI to champion social justice in healthcare?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3823",
+    "question": "In the context of health promotion, how should we address the ethical dilemma of prioritizing the needs and values of individuals versus the collective community?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2982",
+    "question": "What ethical considerations should be taken into account when addressing structural inequality in HIV care?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1401",
+    "question": "How can participatory processes in health data collection ensure ethical considerations are met, particularly for marginalized communities?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-882",
+    "question": "What are the ethical considerations in implementing Supervised Injection Facilities (SIFs) in regions where they face opposition?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2535",
+    "question": "What factors can help reduce the exposure of ICU nurses to ethical conflicts during a pandemic?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2676",
+    "question": "How should healthcare organizations ensure equitable community engagement when developing crisis standards of care (CSC)?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2372",
+    "question": "Why is it ethically important to prioritize COVID-19 vaccination for refugees in Africa?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4511",
+    "question": "What steps should medical educators take to address structural inequities in healthcare education?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3191",
+    "question": "What ethical considerations should be taken into account when framing universal wellbeing as a mission for public health policy?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4584",
+    "question": "What ethical considerations should be taken into account when addressing the health risks associated with environmental and occupational exposure to pollutants?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2498",
+    "question": "How should healthcare systems address the ethical dilemma of providing access to costly liquid biopsies for individuals with varying levels of genetic cancer risk while maintaining solidarity?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2190",
+    "question": "How does the concept of reciprocity influence the ethical obligation of individuals to participate in health data sharing for societal benefit?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3965",
+    "question": "What are the ethical considerations in organizing a two-tiered healthcare system?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1526",
+    "question": "What are the societal ethical concerns associated with the use of pharmacological neuroenhancement?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-722",
+    "question": "When should random allocation be used in medical resource allocation to ensure fairness?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1792",
+    "question": "How can the politicization of public health impact the ethical implementation of public health measures during emergencies?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3757",
+    "question": "What ethical considerations should medical institutions take into account when developing programs to achieve racial equity in medicine?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4240",
+    "question": "How should NICE integrate egalitarian principles into its policy to effectively reduce health inequalities?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2343",
+    "question": "How should healthcare organizations ensure fair decision-making in priority-setting according to the Accountability for Reasonableness framework?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2745",
+    "question": "What strategies can bioethicists advocate for to address health inequity affecting African American communities?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-5265",
+    "question": "What are the ethical considerations in determining whether health care professional education should be viewed as a public good or a private good?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2627",
+    "question": "What considerations should be taken into account when allocating medical resources during a pandemic?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4553",
+    "question": "What ethical responsibilities do health professionals have in advocating for ocean health, and how can they effectively engage in this advocacy?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1229",
+    "question": "How can the concept of health as a global public good (GPG) influence ethical treatment and distribution of health resources?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2677",
+    "question": "What considerations should be taken into account to ensure inclusivity and representation of marginalized communities in the development of Crisis Standards of Care (CSC)?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1407",
+    "question": "What are the implications of abandoning the SOFA score in ventilator allocation, and what concerns have been raised about its use?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-5309",
+    "question": "What are the ethical implications of using different methods to evaluate the fairness of health resource distribution?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2454",
+    "question": "What ethical considerations should guide the global distribution of COVID-19 vaccines to ensure efficiency and justice?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2673",
+    "question": "How can Restorative Justice practices be applied to develop equitable Crisis Standards of Care?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1772",
+    "question": "What ethical considerations should be taken into account when using technology to promote physical activity among people of color, especially in light of the digital divide?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3166",
+    "question": "How can a physician resolve the conflict between providing immediate patient care and ensuring long-term sustainability in healthcare?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2736",
+    "question": "What ethical considerations should be taken into account when using big data techniques in public health to ensure they do not exacerbate health disparities among marginalized groups?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-581",
+    "question": "How should ICU resources be allocated during a pandemic to ensure fair treatment for both COVID-19 and non-COVID-19 patients?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2480",
+    "question": "How should the field of bioethics address the ethical dilemma of health inequities, particularly concerning the higher mortality rates among Black women due to preventable prenatal complications?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-693",
+    "question": "What considerations should the dental profession take into account to balance professional autonomy with the need for equity in access to dental care?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2973",
+    "question": "What strategies can healthcare systems implement to ethically manage resources and workforce during a public health emergency like COVID-19?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1566",
+    "question": "What ethical considerations should be taken into account when prioritizing essential workers for vaccination during a pandemic?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3300",
+    "question": "What ethical considerations should be taken into account when developing public health adaptation strategies for climate change-related health impacts?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3558",
+    "question": "What skills should physicians develop to effectively address power and privilege imbalances in healthcare?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-865",
+    "question": "How should medical practitioners balance the convenience of using advanced antibiotics with their responsibility to protect public health?",
+    "subset": "discourse",
+    "four_pillars": [
+      "justice",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-776",
+    "question": "What ethical considerations should be taken into account when conducting research involving vulnerable populations?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2087",
+    "question": "How can nephrology trainees address moral distress in their practice?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4705",
+    "question": "How should medical educators adapt curricula to address the ethical challenges introduced by AI in healthcare?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1934",
+    "question": "What ethical challenges are associated with obtaining informed consent from COVID-19 patients who may be incapable of consenting?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4458",
+    "question": "What are the main barriers to reporting conflicts of interest (COI) in oncology, and how does income influence relationships with the pharmaceutical industry?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4615",
+    "question": "What ethical considerations should be taken into account when using predictive algorithms in medical diagnostics to avoid self-fulfilling prophecies?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-688",
+    "question": "How can cognitive biases affect medical decision-making during the COVID-19 pandemic, and what should be done to mitigate these biases?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1004",
+    "question": "What ethical considerations should be taken into account when implementing self-isolation and quarantine measures during a pandemic?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "justice",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-290",
+    "question": "What ethical considerations should a veterinarian take into account when deciding how to treat bison with tick paralysis, given the legal and professional risks involved?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence",
+      "justice",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4036",
+    "question": "What are the ethical arguments for using outcome adaptive randomization in clinical trials?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2250",
+    "question": "What ethical considerations should pediatricians take into account when recommending long-acting reversible contraception (LARC) to adolescent patients?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3900",
+    "question": "How can insights into moral responsibilities and relationships help nurses in ethical decision-making during challenging patient care situations?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4831",
+    "question": "How can medical schools ensure that students and faculty understand acceptable behaviors to prevent mistreatment?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1212",
+    "question": "What ethical considerations should be taken into account when conducting medical research during a pandemic, especially regarding the testing of emergent vaccines?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1130",
+    "question": "How should medical professionals respond to the ethical dilemma of treating infectious disease patients when there is a significant risk to their own health?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4063",
+    "question": "How should nursing professionals approach the differentiation between ethical dilemmas and cases of malpractice, imprudence, and negligence?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4600",
+    "question": "How should medical education institutions address the challenge of promoting medical professionalism among their staff and students?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-946",
+    "question": "What steps should medical students take if they identify potential safeguarding or whistleblowing concerns during their coursework?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-502",
+    "question": "What considerations should be taken into account when defining the concept of normality in medicine to ensure ethical medical practice?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-4039",
+    "question": "What are the ethical justifications for using adaptive clinical trial designs over traditional fixed randomization trials?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-1843",
+    "question": "What considerations should be taken into account when assessing professionalism in medical trainees, especially when distinguishing between misconduct and professionalism lapses?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-2994",
+    "question": "What ethical considerations should be taken into account when conducting a randomized controlled trial (RCT) to ensure it is ethically justified?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-14",
+    "question": "What ethical considerations should be taken into account when using affective BCIs to influence emotional states through non-invasive means like nudging?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-3954",
+    "question": "What are the ethical challenges associated with the development and use of synthetic cells in regenerative medicine?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-5233",
+    "question": "What are the ethical considerations for physician involvement in lethal injection and euthanasia, and what role should anesthesiologists play in this context?",
+    "subset": "discourse",
+    "four_pillars": [
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-618",
+    "question": "What ethical considerations should hospitals take into account when adapting stroke care protocols during the COVID-19 pandemic?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "disc-110",
+    "question": "What ethical considerations should be taken into account when attributing new responsibilities to patients through eHealth applications?",
+    "subset": "discourse",
+    "four_pillars": [
+      "autonomy",
+      "beneficence",
+      "non-maleficence"
+    ],
+    "conflict_pair": null,
+    "source": "MedEthicsQA"
+  },
+  {
+    "id": "gen-001",
+    "question": "A 72-year-old with decompensated heart failure refuses diuretics, saying she would rather die comfortably at home than take 'poison,' though her cardiologist believes treatment would extend her life by years. Should the team respect her refusal or act to override it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-002",
+    "question": "A Jehovah's Witness hemorrhaging after surgery refuses a life-saving blood transfusion on religious grounds. How should the surgical team weigh his autonomous refusal against the near-certain harm of withholding it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-003",
+    "question": "A patient with poorly controlled type 1 diabetes insists on a ketogenic regimen his endocrinologist warns could trigger DKA. Should the clinician support the patient's chosen plan or refuse to facilitate it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-004",
+    "question": "A competent ALS patient asks his physician to disable the alarms on his home ventilator so it will not wake caregivers, accepting the risk of an unnoticed fatal disconnection. Should the physician comply?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-005",
+    "question": "An adult with anorexia nervosa, currently judged to have decision-making capacity, refuses nasogastric feeding at a dangerously low BMI. Should clinicians honor her refusal?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-006",
+    "question": "A septic patient demands discharge against medical advice, signing the AMA form, though the physician believes leaving will likely be fatal. How far should clinicians go to dissuade or detain him?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-007",
+    "question": "A woman at 34 weeks refuses a cesarean her obstetrician says is needed to prevent fetal death. Whose interests govern, and may her refusal be overridden?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-008",
+    "question": "A patient with severe COPD insists on continuing to smoke and asks his pulmonologist to keep prescribing inhalers without 'lectures.' Should the clinician set conditions on continued care?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-009",
+    "question": "A newly diagnosed cancer patient asks not to be told her prognosis, delegating all decisions to her son. Should the oncologist honor this non-disclosure even though informed choice would benefit her?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-010",
+    "question": "A patient insists on an unproven, costly supplement instead of evidence-based chemotherapy. Should the physician keep treating him collaboratively or decline to be involved?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-011",
+    "question": "A capacitated but depressed patient declines a medication likely to relieve his symptoms because he fears side effects. How should the clinician balance respecting refusal with the duty to relieve suffering?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-012",
+    "question": "An elderly man wants to stop dialysis to travel, knowing it will shorten his life, though his nephrologist believes continuing would give him good years. Should she try to change his mind?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-013",
+    "question": "A patient asks his doctor to omit a stigmatizing but relevant diagnosis from records his family and insurer may see. Should the physician comply with this autonomy-driven request?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-014",
+    "question": "A teenager, with parental consent, wants cosmetic surgery the surgeon considers medically unnecessary and not in the patient's interest. Should the surgeon proceed?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-015",
+    "question": "A patient declines genetic testing that could guide life-saving prevention because she does not want to 'live under a shadow.' Should the clinician accept this or keep urging it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-016",
+    "question": "A patient requests sedation to unconsciousness for existential distress that is not refractory physical suffering. Should the palliative team provide it at his request?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-017",
+    "question": "A wealthy patient offers to pay extra to move up the transplant waiting list at a public hospital. Should the program accommodate his paid request?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-018",
+    "question": "A patient demands a costly MRI 'to be sure' though guidelines do not indicate it and the scanner is needed for higher-acuity patients. Should the clinician order it on request?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-019",
+    "question": "During a vaccine shortage, an informed patient insists on a dose now rather than waiting for the prioritization schedule. Should the clinic honor individual choice or the allocation rule?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-020",
+    "question": "A frequent attender demands hospital admission for social reasons, occupying a bed others medically need. Should clinicians respect his stated wishes?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-021",
+    "question": "A patient requests a last-line antibiotic for a likely viral illness; broad accommodation would accelerate resistance harming the community. Should the clinician comply?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-022",
+    "question": "A patient insists on being seen by the senior specialist for a routine issue a resident could handle, reducing access for complex cases. Should the request be honored?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-023",
+    "question": "A patient wants continued ICU support offering him marginal benefit during a surge when beds are scarce. How should his autonomy weigh against just allocation?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-024",
+    "question": "A patient asks for a long appointment to discuss minor concerns while the waiting room overflows. How should the clinician balance her autonomy with fairness to others?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-025",
+    "question": "A surgeon can attempt a high-risk operation that might cure an aggressive tumor but could also kill the patient on the table. How should potential benefit weigh against the risk of direct harm?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-026",
+    "question": "An oncologist considers a fourth-line chemotherapy with severe toxicity and slim odds of benefit for a frail patient. Should she offer it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-027",
+    "question": "A clinician weighs prescribing opioids that would relieve a chronic-pain patient's suffering but carry real addiction and overdose risk. Where should the line be drawn?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-028",
+    "question": "A pediatrician considers an experimental therapy that might save a critically ill infant but has caused fatal reactions in trials. Should it be offered to the parents?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-029",
+    "question": "Aggressive fluid resuscitation might save a septic patient but could precipitate fatal pulmonary edema given his heart failure. How should the team proceed?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-030",
+    "question": "A psychiatrist considers ECT, which could rapidly lift a catatonic patient's life-threatening depression but risks memory loss. How should benefit and harm be balanced?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-031",
+    "question": "Deep brain stimulation might dramatically help a Parkinson's patient but carries a small risk of stroke or personality change. Should the neurologist recommend it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-032",
+    "question": "A neonatologist weighs resuscitating an infant at the edge of viability, where survival may mean severe disability. How should benefit and harm to the newborn be balanced?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-033",
+    "question": "A patient with infectious TB refuses isolation and wants to go home to his family. How should the clinician weigh the harm of detaining him against the risk to the public?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-034",
+    "question": "A psychiatrist learns her patient has made a credible threat against a named person. Should she breach confidentiality to warn, accepting harm to the therapeutic relationship?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-035",
+    "question": "A physician discovers a commercial truck-driver patient has uncontrolled epilepsy he has not disclosed. Should she report him, risking his livelihood, to protect the public?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-036",
+    "question": "During an outbreak, should clinicians enforce quarantine on an unwilling asymptomatic carrier to protect others, despite the liberty cost and harm to him?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-037",
+    "question": "A patient with a heritable condition refuses to inform at-risk relatives who could be harmed by remaining unaware. Should the clinician override confidentiality?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-038",
+    "question": "A surgeon knows a colleague is operating while impaired, endangering patients; reporting may end the colleague's career. What is owed to future patients versus the colleague?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-039",
+    "question": "A patient with active, untreated syphilis refuses to notify partners. Should the clinician pursue partner notification against his wishes?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-040",
+    "question": "A clinician must decide whether to document a patient's undisclosed dangerous driving in a way that triggers mandatory reporting, harming the patient but protecting strangers. What should she do?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-041",
+    "question": "A physician can spend an hour stabilizing one complex patient or see six others waiting; helping one maximally reduces care for many. How should she allocate her effort?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-042",
+    "question": "A donated organ could give a younger patient decades or an older, sicker patient a few years; maximizing benefit conflicts with treating both fairly. How should it be allocated?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-043",
+    "question": "A hospital can fund either an expensive therapy that greatly benefits a handful or a cheaper program that modestly helps hundreds. Which choice is more ethical?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-044",
+    "question": "A doctor is tempted to advocate aggressively for her own patient's place in a scarce-resource queue, knowing equally deserving patients lack such an advocate. Is that fair?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-045",
+    "question": "Spending heavily on a futile but demanding ICU case diverts staff from a busy ward. How should beneficence to one weigh against justice to many?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-046",
+    "question": "A rural clinic can stock a life-saving but rarely used drug that will usually expire unused, tying up a budget that could serve common needs. Should it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-047",
+    "question": "A research team can enroll the patients most likely to benefit, improving outcomes, or include harder-to-treat patients for fairer representation. Which should guide enrollment?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-048",
+    "question": "A physician can write a supportive disability letter that would greatly help her patient but is not fully justified, indirectly diverting resources from stronger claims. Should she?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-049",
+    "question": "A clinic with one translator must choose between a long consult for a non-English-speaking patient and serving several English-speaking patients in that time. How should it decide?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-050",
+    "question": "A patient with mild hypertension refuses all medication, preferring lifestyle change he is unlikely to sustain, against his physician's strong recommendation. Should she keep prescribing nothing?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-051",
+    "question": "A devout patient with appendicitis insists on prayer alone and refuses surgery; the surgeon expects peritonitis and death without it. Override or respect?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-052",
+    "question": "A patient with schizophrenia in partial remission refuses a depot antipsychotic, risking relapse and self-harm, while currently appearing to have capacity. Honor the refusal?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-053",
+    "question": "An elderly woman with early dementia insists on living alone despite repeated dangerous falls and a recent fire. Respect independence or arrange involuntary placement?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-054",
+    "question": "A patient demands removal of a feeding tube he finds intolerable, knowing he cannot swallow safely and may aspirate. Comply?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-055",
+    "question": "A motorcyclist refuses to wear a helmet and asks his doctor to 'just patch me up next time' without safety counseling. Set conditions on care?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-056",
+    "question": "A patient with a curable early cancer chooses watchful waiting against advice, accepting a high chance of progression. Keep offering treatment or accept his choice?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-057",
+    "question": "A pregnant patient continues heavy alcohol use and refuses cessation help, endangering the fetus. How far may clinicians go?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-058",
+    "question": "A competent quadriplegic patient requests withdrawal of his ventilator. Should the team proceed despite it causing his death?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-059",
+    "question": "A diabetic refuses amputation for a gangrenous foot threatening sepsis, preferring to keep his leg whatever happens. Override?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-060",
+    "question": "A patient insists on driving home after sedation despite clear danger and warnings. What may the clinic do?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-061",
+    "question": "A young man refuses HIV treatment, denying his diagnosis, while remaining sexually active. Respect autonomy or act on the harm?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-062",
+    "question": "A patient with a DNR tattoo arrives unconscious in cardiac arrest; staff are unsure it reflects current wishes. Resuscitate or honor it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-063",
+    "question": "A hospitalized patient insists on self-administering his own unlabeled herbal medicines that may interact dangerously with his drugs. Allow it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-064",
+    "question": "A patient with a gangrenous bowel refuses surgery citing fear of a stoma, accepting likely death. Override or respect?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-065",
+    "question": "A patient wants to switch from a working regimen to a fashionable but inferior treatment he read about online. Support his choice?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-066",
+    "question": "A new mother declines vitamin K for her newborn after counseling about hemorrhage risk. Honor the refusal or escalate?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-067",
+    "question": "A patient asks the doctor never to raise his weight despite obesity-related disease. Respect the boundary or persist?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-068",
+    "question": "A man wants his advance directive to refuse all future antibiotics, even for easily curable infection. Accept this autonomous but harmful instruction?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-069",
+    "question": "A patient prefers comfort care for a highly curable lymphoma out of fear of chemotherapy. Accept or keep urging treatment?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-070",
+    "question": "A patient wants to leave hospital for a family wedding mid-treatment, risking a serious setback. Facilitate his wish?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-071",
+    "question": "A capable patient refuses a cane and supervision he clearly needs, valuing dignity over safety. Where is the balance?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-072",
+    "question": "A patient insists on a risky elective procedure abroad and asks his physician to manage any complications afterward. What is owed?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-073",
+    "question": "A patient declines an interpreter, insisting on his limited English, risking misunderstanding of consent. Honor or insist?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-074",
+    "question": "A woman requests removal of healthy ovaries out of cancer anxiety though she is not high-risk. Comply with her autonomous request?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-075",
+    "question": "A patient wants to taper off life-sustaining steroids against advice to feel normal. Support the plan?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-076",
+    "question": "A patient with mild hypertension refuses all medication, preferring lifestyle change he is unlikely to sustain. Keep prescribing nothing?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-077",
+    "question": "A patient demands a private room with no medical indication when rooms are scarce. Honor the request?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-078",
+    "question": "A patient insists on daily lab draws for reassurance that strain the lab and budget. Accommodate?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-079",
+    "question": "A patient demands brand-name biologics when biosimilars are equivalent and far cheaper for the system. Prescribe on demand?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-080",
+    "question": "A patient requests repeated second opinions at public expense for a clear diagnosis. How should the clinician respond?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-081",
+    "question": "A worried-well patient wants a whole-body screening MRI that diverts scanner time from symptomatic patients. Order it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-082",
+    "question": "A patient insists on continuing an expensive therapy with no measurable benefit because he wants everything done. Honor it amid scarcity?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-083",
+    "question": "A patient demands same-day specialist access for a non-urgent issue, displacing urgent referrals. Accommodate?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-084",
+    "question": "A patient wants take-home naloxone far beyond any need, depleting a limited supply. Where to draw the line?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-085",
+    "question": "A patient asks to be airlifted rather than driven for a non-time-critical transfer, at great cost. Honor the preference?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-086",
+    "question": "A patient requests genetic sequencing out of curiosity on a public system with long waitlists. Order it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-087",
+    "question": "A celebrity patient wants the team's extended attention, drawing staff from a full ward. How to balance?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-088",
+    "question": "A patient insists on an inpatient bed to be safe though he could be managed at home, during a bed crisis. Admit?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-089",
+    "question": "A trauma surgeon weighs a damage-control laparotomy that may save a bleeding patient but could be lethal in his unstable state. Proceed?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-090",
+    "question": "A rheumatologist considers high-dose immunosuppression that could control severe disease but risks fatal infection. Offer it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-091",
+    "question": "A cardiologist weighs thrombolysis that could save myocardium but risks catastrophic bleeding in an elderly patient. Treat?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-092",
+    "question": "A transplant team considers a marginal donor organ that could save a dying patient but may fail or transmit disease. Use it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-093",
+    "question": "A pain specialist considers an intrathecal pump that could greatly relieve suffering but carries serious procedural risk. Recommend?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-094",
+    "question": "An obstetrician weighs an emergency hysterectomy that would stop life-threatening hemorrhage but end fertility in a young woman, with no time to fully discuss. Proceed?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-095",
+    "question": "A neurosurgeon considers resecting a tumor near eloquent cortex that could cure but may leave the patient aphasic. How to weigh it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-096",
+    "question": "A geneticist considers gene therapy that might cure a fatal childhood disease but has caused leukemia in some recipients. Offer it to parents?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-097",
+    "question": "An ICU team considers ECMO that could bridge a patient to recovery but may cause devastating strokes. Initiate?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-098",
+    "question": "A dermatologist weighs an aggressive systemic drug for severe psoriasis that risks liver failure. Prescribe?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-099",
+    "question": "A hepatologist considers a TIPS procedure to control variceal bleeding that may precipitate encephalopathy. Proceed?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-100",
+    "question": "An oncologist considers CAR-T therapy that could cure a relapsed leukemia but may trigger a fatal cytokine storm. Offer it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-101",
+    "question": "A surgeon considers separating conjoined twins where one may be saved but the other will certainly die. How to weigh harm and benefit?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-102",
+    "question": "An ED physician must decide whether to report an undocumented patient's gunshot wound as required, risking his deportation versus a public-safety duty.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-103",
+    "question": "A physician treating a gang member learns of a planned assault on a rival. Warn authorities or protect confidentiality?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-104",
+    "question": "A pediatrician suspects but cannot confirm abuse; reporting may harm the family if wrong, not reporting may leave a child in danger. What to do?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-105",
+    "question": "A doctor learns a patient pilot is drinking heavily and still flying. Report to the aviation authority, risking his career, to protect passengers?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-106",
+    "question": "A clinician must decide whether to disclose a patient's positive genetic result to an estranged twin at serious risk, against the patient's wishes.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-107",
+    "question": "A nurse discovers a coworker diverting opioids, endangering patients; reporting will destroy the coworker's life. Report?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-108",
+    "question": "A physician treating a sex worker with drug-resistant gonorrhea cannot get her to notify contacts. Pursue public-health notification against her wishes?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-109",
+    "question": "During a mass-casualty event, should a salvageable but resource-heavy patient be passed over to save several others?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-110",
+    "question": "A psychiatrist's patient confesses to a past unsolved crime with ongoing danger to others. Breach confidentiality?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-111",
+    "question": "A physician learns a food-handler patient has typhoid and refuses to stop working. Report to protect the public?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-112",
+    "question": "A clinician must decide whether to honor a patient's refusal to be entered on an infectious-disease registry that protects others.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-113",
+    "question": "A doctor discovers a bus-driver patient has untreated severe sleep apnea causing microsleeps. Report despite harm to his job?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-114",
+    "question": "A physician can enroll her patient in a trial that may help him but takes the last slot from someone with greater need. Advocate for her own patient?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-115",
+    "question": "A hospital must decide whether to spend its charity budget on one child's overseas surgery or many local patients' routine needs. Which is ethical?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-116",
+    "question": "During a ventilator shortage, should a long-time patient be prioritized over a stranger with equal prognosis out of the doctor's loyalty?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-117",
+    "question": "A clinic can offer a costly cure to a few hepatitis C patients or screening to thousands. How to allocate?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-118",
+    "question": "A doctor can give extra time and free samples to a sympathetic patient, leaving less for others equally in need. Is favoritism justified?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-119",
+    "question": "A transplant committee weighs giving a liver to a patient who relapsed into drinking versus a first-time candidate. How to be fair and beneficent?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-120",
+    "question": "A physician can write off one uninsured patient's large bill, but doing so routinely would jeopardize care for all. What is right?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-121",
+    "question": "A sponsor offers funding only if the team excludes hard-to-treat patients who most need help. Accept to do some good, or refuse for fairness?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-122",
+    "question": "A hospital can install one expensive robot benefiting a few surgical patients or upgrade basic equipment used by all. Which serves ethics?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-123",
+    "question": "A doctor in a refugee camp can intensively treat a few critical patients or spread thin care across many. How to choose?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-124",
+    "question": "A clinic must decide whether to keep a no-show-prone but very sick patient in a limited program over reliable patients who would also benefit.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-125",
+    "question": "A physician can prescribe an off-label drug that may help her patient but, if widely copied, would strain shared formulary resources. Prescribe?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-126",
+    "question": "A bodybuilder asks his physician to monitor his self-prescribed anabolic steroids rather than refuse involvement. Harm-reduction or decline?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-127",
+    "question": "A patient insists on a dangerous crash diet before bariatric surgery against advice. Proceed on his terms or refuse?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-128",
+    "question": "A patient with factitious disorder demands invasive tests he does not need; refusing may send him elsewhere. What to do?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-129",
+    "question": "A long-term smoker awaiting lung resection refuses to quit. Should the surgeon make cessation a condition of operating?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-130",
+    "question": "A patient insists on a home birth after a prior emergency cesarean, against strong advice. Attend or refuse?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-131",
+    "question": "A patient wants to return to contact sport after a concussion despite second-impact risk. Clear him?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-132",
+    "question": "A patient demands a rapid opioid detox he has been warned is dangerous. Provide on his insistence?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-133",
+    "question": "A transplant recipient wants to stop immunosuppressants he finds intolerable, risking rejection. Respect his choice?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-134",
+    "question": "A patient refuses cardiac monitoring and signs out during an evolving heart attack. How far to intervene?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-135",
+    "question": "A patient with capacity refuses all pain relief to stay sharp while visibly suffering. Respect or keep persuading?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-136",
+    "question": "A patient wants to drive long-distance days after a seizure, below the legal seizure-free interval, and asks the doctor to stay silent. Respect autonomy?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-137",
+    "question": "A patient demands removal of a cast he finds unbearable before the fracture has healed, accepting deformity. Comply?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-138",
+    "question": "A patient insists on keeping a high-salt diet that worsens his heart failure and asks the dietitian to stop nagging. Set limits?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "non-maleficence"
+    ],
+    "conflict_pair": "autonomy×non-maleficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-139",
+    "question": "A patient prefers acupuncture over proven physiotherapy the physician thinks recovery needs. Support the choice?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-140",
+    "question": "A patient declines statins after a heart attack, citing internet fears, against clear benefit. Keep urging or accept?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-141",
+    "question": "A patient wants to stop a working antidepressant because he should manage without pills. Facilitate the taper or resist?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-142",
+    "question": "A patient asks his surgeon to do a smaller, less effective operation to shorten recovery, against best advice. Accommodate?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-143",
+    "question": "A patient with curable testicular cancer wants to delay treatment to take a trip. Accept the risk or push?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-144",
+    "question": "A patient refuses a hearing aid that would clearly help, finding it embarrassing. Where is the balance?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-145",
+    "question": "A patient wants to leave rehab early to return to work, jeopardizing recovery. Facilitate his wish?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-146",
+    "question": "A patient asks not to be screened for depression he suspects he has, preferring not to know. Honor the boundary?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-147",
+    "question": "A patient insists on a riskier open surgery over a recommended minimally invasive one for personal reasons. Proceed?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-148",
+    "question": "A patient declines anticoagulation after a clot, fearing bleeding, against strong benefit. Respect or persist?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-149",
+    "question": "A patient wants to keep breastfeeding on a drug that may harm the infant but helps her; she has weighed it. Support her choice?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-150",
+    "question": "A capacitated patient refuses a colostomy that would prevent recurrent obstruction, accepting repeated hospitalizations. Accept?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "beneficence"
+    ],
+    "conflict_pair": "autonomy×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-151",
+    "question": "A patient demands proton-beam therapy when standard radiation is equally effective for his cancer. Order it on request?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-152",
+    "question": "A patient insists on weekly physiotherapy beyond clinical need while others wait months for a first slot. Accommodate?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-153",
+    "question": "A patient wants a costly continuous glucose monitor he could manage without, when budgets are tight. Prescribe on demand?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-154",
+    "question": "A patient requests transfer to a tertiary center for care a local hospital could provide, straining specialist beds. Honor?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-155",
+    "question": "A patient demands repeat imaging just in case, using scarce resources and radiation with no indication. Order it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-156",
+    "question": "A patient wants the newest, priciest insulin when an older one works well for him and frees funds for others. Prescribe?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-157",
+    "question": "A patient demands a home-care package beyond his needs that others need more. How to respond?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-158",
+    "question": "A patient wants priority booking because he is busy and important, displacing others. Honor?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-159",
+    "question": "A patient insists on continued expensive monitoring after recovery for reassurance, tying up clinic capacity. Accommodate?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-160",
+    "question": "A patient requests an elective scan abroad billed to his insurer at high cost without indication. Support it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-161",
+    "question": "A patient wants a private ambulance transfer at public expense for non-urgent reasons. Honor the preference?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-162",
+    "question": "A patient demands the senior consultant personally perform a routine procedure a trainee could do, reducing access for complex cases. Honor?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "autonomy",
+      "justice"
+    ],
+    "conflict_pair": "autonomy×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-163",
+    "question": "A vascular surgeon weighs an aneurysm repair that could prevent rupture but carries high operative mortality in a frail patient. Operate?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-164",
+    "question": "An oncologist considers immunotherapy that may cure but can cause fatal autoimmune organ failure. Offer it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-165",
+    "question": "A cardiologist weighs an LVAD that could prolong life but risks stroke and infection. Recommend?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-166",
+    "question": "A nephrologist considers a living-donor transplant that helps the recipient but subjects a healthy donor to surgical risk. How to weigh harm to the donor?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-167",
+    "question": "A surgeon considers debulking a tumor that may relieve symptoms but could hasten death in a weak patient. Proceed?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-168",
+    "question": "An anesthesiologist weighs a regional block that improves recovery but risks rare permanent nerve injury. Recommend?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-169",
+    "question": "A maternal-fetal specialist weighs in-utero surgery that might save the fetus but endangers the mother. How to balance?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-170",
+    "question": "A pulmonologist considers a lung biopsy that could guide treatment but risks fatal hemorrhage. Order it?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-171",
+    "question": "A gastroenterologist weighs a stent that relieves obstruction but may perforate the bowel. Proceed?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-172",
+    "question": "An endocrinologist considers tight glucose control that improves outcomes but risks dangerous hypoglycemia in an elderly patient. How tight to aim?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-173",
+    "question": "An oncologist weighs radiation that could control a brain tumor but may cause lasting cognitive decline. Recommend?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-174",
+    "question": "A surgeon considers a high-risk reoperation that could fix a failed repair but may kill an already weakened patient. Proceed?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "beneficence"
+    ],
+    "conflict_pair": "non-maleficence×beneficence",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-175",
+    "question": "A clinician learns a daycare-worker patient has an untreated contagious infection and will not take leave. Report to protect children?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-176",
+    "question": "A physician must decide whether to disclose a soldier patient's PTSD that could affect unit safety, against confidentiality.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-177",
+    "question": "A physician treating both spouses learns one has an STI he refuses to disclose to the other, also his patient. What to do?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-178",
+    "question": "A clinician suspects a patient is diverting the controlled drugs she prescribes to vulnerable others. Report or protect privacy?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-179",
+    "question": "A doctor learns a patient plans to travel while infectious with measles. Notify public health against his wishes?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-180",
+    "question": "A psychiatrist's patient reveals ongoing violence toward children in the home. Breach confidentiality to protect them?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-181",
+    "question": "A clinician discovers a school-bus driver patient is misusing sedatives. Report despite ending his employment?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-182",
+    "question": "A genetic counselor learns a sperm donor carries a serious heritable disease affecting many offspring. Pursue notification against his wishes?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-183",
+    "question": "A physician treating a patient with recurrent arson impulses must weigh warning authorities against confidentiality.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-184",
+    "question": "A clinician must decide whether to enter a stigmatizing diagnosis in a shared record that protects other providers but exposes the patient.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-185",
+    "question": "During an epidemic, a clinician must decide whether to override a patient's refusal of contact tracing that endangers others.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-186",
+    "question": "A physician treating a public official learns of a condition the public has a safety interest in. Disclose or protect privacy?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-187",
+    "question": "A doctor must weigh reporting a patient's confessed plan to harm a specific ex-partner against the therapeutic relationship.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "non-maleficence",
+      "justice"
+    ],
+    "conflict_pair": "non-maleficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-188",
+    "question": "A physician must decide whether to spend scarce clinic hours on one complex case or a community screening day that helps many.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-189",
+    "question": "A drug is available through a compassionate-use lottery; should the physician lobby hard for her patient over equally deserving others?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-190",
+    "question": "A hospital weighs funding a NICU cot that saves few high-cost infants or maternity care improving many births. Which is ethical?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-191",
+    "question": "A doctor can offer a grateful patient priority follow-up as thanks, at the cost of others' access. Justified?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-192",
+    "question": "An ICU must decide between continuing care for a slowly improving long-stay patient and admitting several acute patients waiting.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-193",
+    "question": "A clinic can adopt an expensive diagnostic benefiting a rare subgroup or invest in basic care for the common majority. Which is right?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-194",
+    "question": "A transplant team weighs social-value criteria that maximize societal benefit against equal treatment of all candidates.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-195",
+    "question": "A hospital must decide whether to treat a wealthy medical tourist whose fees fund local care but who displaces local patients.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-196",
+    "question": "A physician must choose between intensive support for one premature infant and adequate staffing for the whole nursery.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-197",
+    "question": "A clinic must decide whether to keep funding a high-cost therapy for a few long-term patients or open access to new ones.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-198",
+    "question": "A doctor can give extra unbilled time to a struggling patient, but doing so for all would collapse the practice. What is right?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-199",
+    "question": "A physician can prioritize her dying patient's wish for a costly home setup that others equally need. How to allocate?",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  },
+  {
+    "id": "gen-200",
+    "question": "A pharmacy with limited stock must choose between filling one patient's large chronic order and reserving supply for many acute needs.",
+    "subset": "dilemma",
+    "four_pillars": [
+      "beneficence",
+      "justice"
+    ],
+    "conflict_pair": "beneficence×justice",
+    "source": "claude-opus-4.8"
+  }
+]
